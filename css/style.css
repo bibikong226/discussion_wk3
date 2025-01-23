@@ -1,0 +1,10 @@
+ body {background-color: antiquewhite;}
+h1 {font-family: "Inter", sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: blue;}
+.image {width: 200px;
+        height: 200px;
+        border-style: dotted;
+        border-color: blue;
+        border-width: 2px;}
